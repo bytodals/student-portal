@@ -1,0 +1,23 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+
+body {
+  margin: 0;
+  background: #b3c0f2;
+  background: linear-gradient(180deg,rgba(179, 192, 242, 1) 0%, rgba(224, 192, 237, 1) 50%, rgba(232, 193, 216, 1) 100%) no-repeat;
+  min-height: 100vh; 
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  background-color: #1a1a1a !important;
+}
+
