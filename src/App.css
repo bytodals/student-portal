@@ -9,8 +9,19 @@ h1, h2, h3 {
 
 h1 {
 font-size: 42px !important;
+font-weight: bold;
+}
+
+h2 {
+font-size: 28px;
+font-weight: bold;
 }
 
 p {
 font-size: 20px;
+}
+
+.card {
+border: 1px solid #1e0927d0;
+box-shadow: 2px 5px 1px #1e09277c;
 }
